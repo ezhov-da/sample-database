@@ -9,4 +9,4 @@ username: sa
 password: sa  
 
 Schema DB:  
-![schema](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![schema](https://github.com/ezhov-da/sample-database/blob/master/diagram.png?raw=true)
